@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://www.televisa.com/api/image/x/us/canal5/series/test-prueba-que-eres-un-experto-en-dewey-de-malcolm-el-de-en-medio');
+  background-size: cover; /* La imagen cubrirá toda la pantalla */
+  background-position: center; /* Centra la imagen */
+  background-attachment: fixed; /* Fija la imagen al hacer scroll */
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h2, p {
+  margin-top: 20px;
+}
+
+a:hover {
+  background-color: #61dafb;
+}
